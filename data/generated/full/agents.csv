@@ -1,0 +1,15 @@
+﻿agent_id,agent_name,team_id,workload_capacity,is_active
+1,Aarav Sharma,1,200,True
+2,Priya Verma,1,200,True
+3,Rohan Mehta,1,200,True
+4,Ananya Gupta,2,200,True
+5,Karan Malhotra,2,200,True
+6,Neha Singh,2,200,True
+7,Ishita Rao,3,200,True
+8,Arjun Kapoor,3,200,True
+9,Meera Joshi,3,200,True
+10,Vikram Nair,4,200,True
+11,Sana Khan,4,200,True
+12,Dev Patel,5,200,True
+13,Riya Das,5,200,True
+14,Kabir Shah,5,200,True

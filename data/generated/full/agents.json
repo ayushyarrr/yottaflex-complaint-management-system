@@ -1,0 +1,100 @@
+[
+  {
+    "agent_id": 1,
+    "agent_name": "Aarav Sharma",
+    "team_id": 1,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 2,
+    "agent_name": "Priya Verma",
+    "team_id": 1,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 3,
+    "agent_name": "Rohan Mehta",
+    "team_id": 1,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 4,
+    "agent_name": "Ananya Gupta",
+    "team_id": 2,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 5,
+    "agent_name": "Karan Malhotra",
+    "team_id": 2,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 6,
+    "agent_name": "Neha Singh",
+    "team_id": 2,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 7,
+    "agent_name": "Ishita Rao",
+    "team_id": 3,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 8,
+    "agent_name": "Arjun Kapoor",
+    "team_id": 3,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 9,
+    "agent_name": "Meera Joshi",
+    "team_id": 3,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 10,
+    "agent_name": "Vikram Nair",
+    "team_id": 4,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 11,
+    "agent_name": "Sana Khan",
+    "team_id": 4,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 12,
+    "agent_name": "Dev Patel",
+    "team_id": 5,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 13,
+    "agent_name": "Riya Das",
+    "team_id": 5,
+    "workload_capacity": 200,
+    "is_active": true
+  },
+  {
+    "agent_id": 14,
+    "agent_name": "Kabir Shah",
+    "team_id": 5,
+    "workload_capacity": 200,
+    "is_active": true
+  }
+]

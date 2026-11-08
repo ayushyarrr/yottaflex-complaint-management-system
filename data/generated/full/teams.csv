@@ -1,0 +1,6 @@
+﻿team_id,team_name,description,is_active
+1,Delivery Support,"Handles delivery delays, missing items, and cancellation complaints.",True
+2,Finance Support,"Handles payment, billing, and refund complaints.",True
+3,Product Support,"Handles damaged products, defects, warranty, and replacements.",True
+4,Safety Response,Handles product safety risks and urgent safety-related complaints.,True
+5,General Support,Handles account-related and uncategorized complaints.,True

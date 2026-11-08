@@ -1,0 +1,100 @@
+[
+  {
+    "anomaly_id": "ANOM-001",
+    "issue_type": "COMPLAINT_WITHOUT_CUSTOMER",
+    "entity": "Complaint",
+    "record_id": "CMP-ANOM-000001",
+    "description": "Complaint references a customer ID that does not exist.",
+    "test_data": {
+      "complaint_id": "CMP-ANOM-000001",
+      "customer_id": "CUS-999999",
+      "category": "DELIVERY",
+      "priority": "P3",
+      "status": "NEW"
+    },
+    "expected_detection": "Foreign-key validation should reject the missing customer reference.",
+    "ground_truth": "ANOMALY"
+  },
+  {
+    "anomaly_id": "ANOM-002",
+    "issue_type": "RESOLUTION_BEFORE_COMPLAINT",
+    "entity": "Resolution",
+    "record_id": "RES-CMP-ANOM-000002",
+    "description": "Resolution timestamp occurs before the complaint was created.",
+    "test_data": {
+      "complaint_id": "CMP-ANOM-000002",
+      "complaint_created_at": "2026-11-08T12:00:00",
+      "resolution_id": "RES-CMP-ANOM-000002",
+      "resolved_at": "2026-11-08T10:00:00"
+    },
+    "expected_detection": "Chronology validation should detect that resolution predates complaint creation.",
+    "ground_truth": "ANOMALY"
+  },
+  {
+    "anomaly_id": "ANOM-003",
+    "issue_type": "INCORRECT_SLA_PAUSE",
+    "entity": "SLAClock",
+    "record_id": "SLA-CMP-ANOM-000003",
+    "description": "SLA clock is marked as paused, but the paused duration and deadline adjustment are inconsistent.",
+    "test_data": {
+      "complaint_id": "CMP-ANOM-000003",
+      "paused_at": "2026-11-08T10:00:00",
+      "resumed_at": "2026-11-08T11:00:00",
+      "recorded_paused_seconds": 0,
+      "expected_paused_seconds": 3600,
+      "resolution_deadline_extended_seconds": 0
+    },
+    "expected_detection": "SLA audit should identify the missing paused duration and deadline extension.",
+    "ground_truth": "ANOMALY"
+  },
+  {
+    "anomaly_id": "ANOM-004",
+    "issue_type": "REPEAT_ISSUE_NOT_LINKED",
+    "entity": "Complaint",
+    "record_id": "CMP-ANOM-000004",
+    "description": "A repeat complaint from the same customer about the same issue is not linked to the earlier complaint.",
+    "test_data": {
+      "customer_id": "CUS-000001",
+      "previous_complaint_id": "CMP-2026-000001",
+      "new_complaint_id": "CMP-ANOM-000004",
+      "same_issue": true,
+      "recurrence_count_recorded": 1,
+      "expected_recurrence_count": 2
+    },
+    "expected_detection": "Repeat-issue validation should identify the missing relationship and incorrect recurrence count.",
+    "ground_truth": "ANOMALY"
+  },
+  {
+    "anomaly_id": "ANOM-005",
+    "issue_type": "CRITICAL_SAFETY_LOW_PRIORITY_ASSIGNMENT",
+    "entity": "Assignment",
+    "record_id": "ASN-ANOM-000005",
+    "description": "A critical product-safety complaint is assigned to a low-priority general support queue.",
+    "test_data": {
+      "complaint_id": "CMP-ANOM-000005",
+      "category": "PRODUCT SAFETY",
+      "severity": "CRITICAL",
+      "priority": "P1",
+      "assigned_team": "General Support",
+      "required_team": "Safety Response"
+    },
+    "expected_detection": "Routing validation should detect that a critical safety complaint is not assigned to Safety Response.",
+    "ground_truth": "ANOMALY"
+  },
+  {
+    "anomaly_id": "ANOM-006",
+    "issue_type": "SURVEY_BEFORE_CLOSURE",
+    "entity": "Survey",
+    "record_id": "SUR-ANOM-000006",
+    "description": "Customer satisfaction survey is submitted while the complaint is still unresolved.",
+    "test_data": {
+      "complaint_id": "CMP-ANOM-000006",
+      "complaint_status": "IN_PROGRESS",
+      "resolution_id": "RES-CMP-ANOM-000006",
+      "survey_rating": 2,
+      "survey_submitted_at": "2026-11-08T14:00:00"
+    },
+    "expected_detection": "Survey validation should reject submission before a final resolution and complaint closure.",
+    "ground_truth": "ANOMALY"
+  }
+]

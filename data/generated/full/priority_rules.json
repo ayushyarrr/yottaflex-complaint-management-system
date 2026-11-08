@@ -1,0 +1,101 @@
+[
+  {
+    "rule_id": 1,
+    "rule_name": "STRONGLY_NEGATIVE_SENTIMENT",
+    "condition_type": "SENTIMENT",
+    "condition_value": "STRONGLY NEGATIVE",
+    "score": 3,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 2,
+    "rule_name": "NEGATIVE_SENTIMENT",
+    "condition_type": "SENTIMENT",
+    "condition_value": "NEGATIVE",
+    "score": 2,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 3,
+    "rule_name": "NEUTRAL_SENTIMENT",
+    "condition_type": "SENTIMENT",
+    "condition_value": "NEUTRAL",
+    "score": 1,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 4,
+    "rule_name": "HIGH_ORDER_VALUE",
+    "condition_type": "ORDER_VALUE",
+    "condition_value": "ABOVE_10000",
+    "score": 2,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 5,
+    "rule_name": "MEDIUM_ORDER_VALUE",
+    "condition_type": "ORDER_VALUE",
+    "condition_value": "ABOVE_5000",
+    "score": 1,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 6,
+    "rule_name": "THIRD_OR_LATER_COMPLAINT",
+    "condition_type": "RECURRENCE",
+    "condition_value": "AT_LEAST_3",
+    "score": 3,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 7,
+    "rule_name": "REPEAT_COMPLAINT",
+    "condition_type": "RECURRENCE",
+    "condition_value": "EXACTLY_2",
+    "score": 2,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 8,
+    "rule_name": "VULNERABLE_CUSTOMER",
+    "condition_type": "CUSTOMER",
+    "condition_value": "IS_VULNERABLE",
+    "score": 1,
+    "priority_override": null,
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  },
+  {
+    "rule_id": 9,
+    "rule_name": "PRODUCT_SAFETY_OVERRIDE",
+    "condition_type": "SAFETY",
+    "condition_value": "IS_SAFETY_RISK",
+    "score": 0,
+    "priority_override": "P1",
+    "is_active": true,
+    "effective_from": "2026-11-08T19:50:48",
+    "effective_to": null
+  }
+]

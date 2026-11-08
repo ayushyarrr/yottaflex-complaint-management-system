@@ -1,0 +1,32 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Delivery Support",
+    "description": "Handles delivery delays, missing items, and cancellation complaints.",
+    "is_active": true
+  },
+  {
+    "team_id": 2,
+    "team_name": "Finance Support",
+    "description": "Handles payment, billing, and refund complaints.",
+    "is_active": true
+  },
+  {
+    "team_id": 3,
+    "team_name": "Product Support",
+    "description": "Handles damaged products, defects, warranty, and replacements.",
+    "is_active": true
+  },
+  {
+    "team_id": 4,
+    "team_name": "Safety Response",
+    "description": "Handles product safety risks and urgent safety-related complaints.",
+    "is_active": true
+  },
+  {
+    "team_id": 5,
+    "team_name": "General Support",
+    "description": "Handles account-related and uncategorized complaints.",
+    "is_active": true
+  }
+]

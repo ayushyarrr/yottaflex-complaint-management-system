@@ -1,0 +1,701 @@
+﻿resolution_id,complaint_id,resolution_type,resolution_description,resolved_by,resolved_at,is_final
+RES-CMP-2026-001301,CMP-2026-001301,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001302,CMP-2026-001302,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001303,CMP-2026-001303,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001304,CMP-2026-001304,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001305,CMP-2026-001305,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001306,CMP-2026-001306,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001307,CMP-2026-001307,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001308,CMP-2026-001308,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001309,CMP-2026-001309,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001310,CMP-2026-001310,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001311,CMP-2026-001311,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001312,CMP-2026-001312,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001313,CMP-2026-001313,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001314,CMP-2026-001314,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001315,CMP-2026-001315,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001316,CMP-2026-001316,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001317,CMP-2026-001317,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001318,CMP-2026-001318,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001319,CMP-2026-001319,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001320,CMP-2026-001320,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001321,CMP-2026-001321,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001322,CMP-2026-001322,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001323,CMP-2026-001323,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001324,CMP-2026-001324,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001325,CMP-2026-001325,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001326,CMP-2026-001326,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001327,CMP-2026-001327,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001328,CMP-2026-001328,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001329,CMP-2026-001329,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001330,CMP-2026-001330,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001331,CMP-2026-001331,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001332,CMP-2026-001332,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001333,CMP-2026-001333,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001334,CMP-2026-001334,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001335,CMP-2026-001335,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001336,CMP-2026-001336,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001337,CMP-2026-001337,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001338,CMP-2026-001338,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001339,CMP-2026-001339,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001340,CMP-2026-001340,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001341,CMP-2026-001341,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001342,CMP-2026-001342,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001343,CMP-2026-001343,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001344,CMP-2026-001344,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001345,CMP-2026-001345,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001346,CMP-2026-001346,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001347,CMP-2026-001347,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001348,CMP-2026-001348,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001349,CMP-2026-001349,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001350,CMP-2026-001350,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001351,CMP-2026-001351,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001352,CMP-2026-001352,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001353,CMP-2026-001353,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001354,CMP-2026-001354,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001355,CMP-2026-001355,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001356,CMP-2026-001356,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001357,CMP-2026-001357,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001358,CMP-2026-001358,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001359,CMP-2026-001359,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001360,CMP-2026-001360,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001361,CMP-2026-001361,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001362,CMP-2026-001362,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001363,CMP-2026-001363,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001364,CMP-2026-001364,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001365,CMP-2026-001365,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001366,CMP-2026-001366,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001367,CMP-2026-001367,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001368,CMP-2026-001368,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001369,CMP-2026-001369,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001370,CMP-2026-001370,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001371,CMP-2026-001371,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001372,CMP-2026-001372,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001373,CMP-2026-001373,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001374,CMP-2026-001374,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001375,CMP-2026-001375,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001376,CMP-2026-001376,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001377,CMP-2026-001377,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001378,CMP-2026-001378,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001379,CMP-2026-001379,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001380,CMP-2026-001380,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001381,CMP-2026-001381,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001382,CMP-2026-001382,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001383,CMP-2026-001383,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001384,CMP-2026-001384,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001385,CMP-2026-001385,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001386,CMP-2026-001386,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001387,CMP-2026-001387,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001388,CMP-2026-001388,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001389,CMP-2026-001389,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001390,CMP-2026-001390,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001391,CMP-2026-001391,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001392,CMP-2026-001392,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001393,CMP-2026-001393,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001394,CMP-2026-001394,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001395,CMP-2026-001395,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001396,CMP-2026-001396,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001397,CMP-2026-001397,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001398,CMP-2026-001398,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001399,CMP-2026-001399,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001400,CMP-2026-001400,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001401,CMP-2026-001401,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001402,CMP-2026-001402,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001403,CMP-2026-001403,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001404,CMP-2026-001404,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001405,CMP-2026-001405,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001406,CMP-2026-001406,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001407,CMP-2026-001407,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001408,CMP-2026-001408,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001409,CMP-2026-001409,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001410,CMP-2026-001410,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001411,CMP-2026-001411,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001412,CMP-2026-001412,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001413,CMP-2026-001413,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001414,CMP-2026-001414,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001415,CMP-2026-001415,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001416,CMP-2026-001416,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001417,CMP-2026-001417,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001418,CMP-2026-001418,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001419,CMP-2026-001419,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001420,CMP-2026-001420,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001421,CMP-2026-001421,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001422,CMP-2026-001422,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001423,CMP-2026-001423,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001424,CMP-2026-001424,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001425,CMP-2026-001425,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001426,CMP-2026-001426,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001427,CMP-2026-001427,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001428,CMP-2026-001428,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001429,CMP-2026-001429,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001430,CMP-2026-001430,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001431,CMP-2026-001431,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001432,CMP-2026-001432,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001433,CMP-2026-001433,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001434,CMP-2026-001434,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001435,CMP-2026-001435,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001436,CMP-2026-001436,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001437,CMP-2026-001437,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001438,CMP-2026-001438,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001439,CMP-2026-001439,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001440,CMP-2026-001440,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001441,CMP-2026-001441,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001442,CMP-2026-001442,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001443,CMP-2026-001443,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001444,CMP-2026-001444,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001445,CMP-2026-001445,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001446,CMP-2026-001446,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001447,CMP-2026-001447,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001448,CMP-2026-001448,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001449,CMP-2026-001449,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001450,CMP-2026-001450,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001451,CMP-2026-001451,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001452,CMP-2026-001452,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001453,CMP-2026-001453,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001454,CMP-2026-001454,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001455,CMP-2026-001455,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001456,CMP-2026-001456,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001457,CMP-2026-001457,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001458,CMP-2026-001458,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001459,CMP-2026-001459,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001460,CMP-2026-001460,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001461,CMP-2026-001461,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001462,CMP-2026-001462,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001463,CMP-2026-001463,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001464,CMP-2026-001464,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001465,CMP-2026-001465,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001466,CMP-2026-001466,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001467,CMP-2026-001467,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001468,CMP-2026-001468,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001469,CMP-2026-001469,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001470,CMP-2026-001470,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001471,CMP-2026-001471,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001472,CMP-2026-001472,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001473,CMP-2026-001473,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001474,CMP-2026-001474,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001475,CMP-2026-001475,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001476,CMP-2026-001476,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001477,CMP-2026-001477,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001478,CMP-2026-001478,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001479,CMP-2026-001479,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001480,CMP-2026-001480,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001481,CMP-2026-001481,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001482,CMP-2026-001482,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001483,CMP-2026-001483,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001484,CMP-2026-001484,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001485,CMP-2026-001485,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001486,CMP-2026-001486,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001487,CMP-2026-001487,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001488,CMP-2026-001488,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001489,CMP-2026-001489,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001490,CMP-2026-001490,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001491,CMP-2026-001491,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001492,CMP-2026-001492,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001493,CMP-2026-001493,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001494,CMP-2026-001494,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001495,CMP-2026-001495,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001496,CMP-2026-001496,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001497,CMP-2026-001497,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001498,CMP-2026-001498,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001499,CMP-2026-001499,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001500,CMP-2026-001500,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001501,CMP-2026-001501,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001502,CMP-2026-001502,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001503,CMP-2026-001503,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001504,CMP-2026-001504,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001505,CMP-2026-001505,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001506,CMP-2026-001506,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001507,CMP-2026-001507,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001508,CMP-2026-001508,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001509,CMP-2026-001509,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001510,CMP-2026-001510,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001511,CMP-2026-001511,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001512,CMP-2026-001512,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001513,CMP-2026-001513,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001514,CMP-2026-001514,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001515,CMP-2026-001515,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001516,CMP-2026-001516,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001517,CMP-2026-001517,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001518,CMP-2026-001518,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001519,CMP-2026-001519,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001520,CMP-2026-001520,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001521,CMP-2026-001521,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001522,CMP-2026-001522,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001523,CMP-2026-001523,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001524,CMP-2026-001524,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001525,CMP-2026-001525,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001526,CMP-2026-001526,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001527,CMP-2026-001527,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001528,CMP-2026-001528,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001529,CMP-2026-001529,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001530,CMP-2026-001530,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001531,CMP-2026-001531,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001532,CMP-2026-001532,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001533,CMP-2026-001533,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001534,CMP-2026-001534,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001535,CMP-2026-001535,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001536,CMP-2026-001536,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001537,CMP-2026-001537,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001538,CMP-2026-001538,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001539,CMP-2026-001539,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001540,CMP-2026-001540,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001541,CMP-2026-001541,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001542,CMP-2026-001542,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001543,CMP-2026-001543,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001544,CMP-2026-001544,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001545,CMP-2026-001545,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001546,CMP-2026-001546,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001547,CMP-2026-001547,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001548,CMP-2026-001548,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001549,CMP-2026-001549,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001550,CMP-2026-001550,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001551,CMP-2026-001551,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001552,CMP-2026-001552,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001553,CMP-2026-001553,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001554,CMP-2026-001554,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001555,CMP-2026-001555,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001556,CMP-2026-001556,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001557,CMP-2026-001557,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001558,CMP-2026-001558,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001559,CMP-2026-001559,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001560,CMP-2026-001560,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001561,CMP-2026-001561,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001562,CMP-2026-001562,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001563,CMP-2026-001563,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001564,CMP-2026-001564,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001565,CMP-2026-001565,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001566,CMP-2026-001566,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001567,CMP-2026-001567,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001568,CMP-2026-001568,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001569,CMP-2026-001569,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001570,CMP-2026-001570,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001571,CMP-2026-001571,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001572,CMP-2026-001572,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001573,CMP-2026-001573,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001574,CMP-2026-001574,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001575,CMP-2026-001575,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001576,CMP-2026-001576,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001577,CMP-2026-001577,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001578,CMP-2026-001578,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001579,CMP-2026-001579,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001580,CMP-2026-001580,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001581,CMP-2026-001581,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001582,CMP-2026-001582,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001583,CMP-2026-001583,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001584,CMP-2026-001584,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001585,CMP-2026-001585,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001586,CMP-2026-001586,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001587,CMP-2026-001587,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001588,CMP-2026-001588,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001589,CMP-2026-001589,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001590,CMP-2026-001590,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001591,CMP-2026-001591,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001592,CMP-2026-001592,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001593,CMP-2026-001593,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001594,CMP-2026-001594,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001595,CMP-2026-001595,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001596,CMP-2026-001596,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001597,CMP-2026-001597,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001598,CMP-2026-001598,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001599,CMP-2026-001599,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001600,CMP-2026-001600,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001601,CMP-2026-001601,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001602,CMP-2026-001602,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001603,CMP-2026-001603,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001604,CMP-2026-001604,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001605,CMP-2026-001605,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001606,CMP-2026-001606,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001607,CMP-2026-001607,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001608,CMP-2026-001608,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001609,CMP-2026-001609,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001610,CMP-2026-001610,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001611,CMP-2026-001611,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001612,CMP-2026-001612,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001613,CMP-2026-001613,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001614,CMP-2026-001614,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001615,CMP-2026-001615,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001616,CMP-2026-001616,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001617,CMP-2026-001617,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001618,CMP-2026-001618,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001619,CMP-2026-001619,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001620,CMP-2026-001620,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001621,CMP-2026-001621,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001622,CMP-2026-001622,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001623,CMP-2026-001623,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001624,CMP-2026-001624,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001625,CMP-2026-001625,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001626,CMP-2026-001626,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001627,CMP-2026-001627,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001628,CMP-2026-001628,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001629,CMP-2026-001629,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001630,CMP-2026-001630,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001631,CMP-2026-001631,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001632,CMP-2026-001632,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001633,CMP-2026-001633,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001634,CMP-2026-001634,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001635,CMP-2026-001635,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001636,CMP-2026-001636,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001637,CMP-2026-001637,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001638,CMP-2026-001638,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001639,CMP-2026-001639,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001640,CMP-2026-001640,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001641,CMP-2026-001641,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001642,CMP-2026-001642,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001643,CMP-2026-001643,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001644,CMP-2026-001644,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001645,CMP-2026-001645,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001646,CMP-2026-001646,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001647,CMP-2026-001647,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001648,CMP-2026-001648,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001649,CMP-2026-001649,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001650,CMP-2026-001650,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001651,CMP-2026-001651,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001652,CMP-2026-001652,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001653,CMP-2026-001653,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001654,CMP-2026-001654,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001655,CMP-2026-001655,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001656,CMP-2026-001656,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001657,CMP-2026-001657,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001658,CMP-2026-001658,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001659,CMP-2026-001659,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001660,CMP-2026-001660,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001661,CMP-2026-001661,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001662,CMP-2026-001662,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001663,CMP-2026-001663,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001664,CMP-2026-001664,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001665,CMP-2026-001665,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001666,CMP-2026-001666,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001667,CMP-2026-001667,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001668,CMP-2026-001668,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001669,CMP-2026-001669,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001670,CMP-2026-001670,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001671,CMP-2026-001671,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001672,CMP-2026-001672,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001673,CMP-2026-001673,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001674,CMP-2026-001674,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001675,CMP-2026-001675,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001676,CMP-2026-001676,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001677,CMP-2026-001677,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001678,CMP-2026-001678,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001679,CMP-2026-001679,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001680,CMP-2026-001680,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001681,CMP-2026-001681,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001682,CMP-2026-001682,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001683,CMP-2026-001683,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001684,CMP-2026-001684,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001685,CMP-2026-001685,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001686,CMP-2026-001686,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001687,CMP-2026-001687,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001688,CMP-2026-001688,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001689,CMP-2026-001689,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001690,CMP-2026-001690,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001691,CMP-2026-001691,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001692,CMP-2026-001692,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001693,CMP-2026-001693,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001694,CMP-2026-001694,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001695,CMP-2026-001695,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001696,CMP-2026-001696,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001697,CMP-2026-001697,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001698,CMP-2026-001698,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001699,CMP-2026-001699,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001700,CMP-2026-001700,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001701,CMP-2026-001701,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001702,CMP-2026-001702,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001703,CMP-2026-001703,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001704,CMP-2026-001704,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001705,CMP-2026-001705,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001706,CMP-2026-001706,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001707,CMP-2026-001707,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001708,CMP-2026-001708,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001709,CMP-2026-001709,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001710,CMP-2026-001710,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001711,CMP-2026-001711,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001712,CMP-2026-001712,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001713,CMP-2026-001713,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001714,CMP-2026-001714,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001715,CMP-2026-001715,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001716,CMP-2026-001716,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001717,CMP-2026-001717,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001718,CMP-2026-001718,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001719,CMP-2026-001719,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001720,CMP-2026-001720,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001721,CMP-2026-001721,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001722,CMP-2026-001722,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001723,CMP-2026-001723,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001724,CMP-2026-001724,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001725,CMP-2026-001725,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001726,CMP-2026-001726,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001727,CMP-2026-001727,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001728,CMP-2026-001728,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001729,CMP-2026-001729,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001730,CMP-2026-001730,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001731,CMP-2026-001731,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001732,CMP-2026-001732,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001733,CMP-2026-001733,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001734,CMP-2026-001734,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001735,CMP-2026-001735,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001736,CMP-2026-001736,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001737,CMP-2026-001737,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001738,CMP-2026-001738,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001739,CMP-2026-001739,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001740,CMP-2026-001740,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001741,CMP-2026-001741,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001742,CMP-2026-001742,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001743,CMP-2026-001743,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001744,CMP-2026-001744,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001745,CMP-2026-001745,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001746,CMP-2026-001746,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001747,CMP-2026-001747,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001748,CMP-2026-001748,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001749,CMP-2026-001749,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001750,CMP-2026-001750,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001751,CMP-2026-001751,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001752,CMP-2026-001752,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001753,CMP-2026-001753,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001754,CMP-2026-001754,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001755,CMP-2026-001755,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001756,CMP-2026-001756,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001757,CMP-2026-001757,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001758,CMP-2026-001758,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001759,CMP-2026-001759,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001760,CMP-2026-001760,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001761,CMP-2026-001761,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001762,CMP-2026-001762,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001763,CMP-2026-001763,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001764,CMP-2026-001764,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001765,CMP-2026-001765,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001766,CMP-2026-001766,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001767,CMP-2026-001767,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001768,CMP-2026-001768,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001769,CMP-2026-001769,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001770,CMP-2026-001770,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001771,CMP-2026-001771,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001772,CMP-2026-001772,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001773,CMP-2026-001773,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001774,CMP-2026-001774,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001775,CMP-2026-001775,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001776,CMP-2026-001776,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001777,CMP-2026-001777,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001778,CMP-2026-001778,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001779,CMP-2026-001779,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001780,CMP-2026-001780,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001781,CMP-2026-001781,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001782,CMP-2026-001782,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001783,CMP-2026-001783,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001784,CMP-2026-001784,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001785,CMP-2026-001785,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001786,CMP-2026-001786,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001787,CMP-2026-001787,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001788,CMP-2026-001788,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001789,CMP-2026-001789,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001790,CMP-2026-001790,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001791,CMP-2026-001791,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001792,CMP-2026-001792,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001793,CMP-2026-001793,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001794,CMP-2026-001794,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001795,CMP-2026-001795,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001796,CMP-2026-001796,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001797,CMP-2026-001797,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001798,CMP-2026-001798,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001799,CMP-2026-001799,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001800,CMP-2026-001800,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001801,CMP-2026-001801,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001802,CMP-2026-001802,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001803,CMP-2026-001803,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001804,CMP-2026-001804,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001805,CMP-2026-001805,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001806,CMP-2026-001806,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001807,CMP-2026-001807,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001808,CMP-2026-001808,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001809,CMP-2026-001809,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001810,CMP-2026-001810,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001811,CMP-2026-001811,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001812,CMP-2026-001812,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001813,CMP-2026-001813,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001814,CMP-2026-001814,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001815,CMP-2026-001815,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001816,CMP-2026-001816,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001817,CMP-2026-001817,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001818,CMP-2026-001818,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001819,CMP-2026-001819,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001820,CMP-2026-001820,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001821,CMP-2026-001821,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001822,CMP-2026-001822,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001823,CMP-2026-001823,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001824,CMP-2026-001824,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001825,CMP-2026-001825,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001826,CMP-2026-001826,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001827,CMP-2026-001827,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001828,CMP-2026-001828,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001829,CMP-2026-001829,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001830,CMP-2026-001830,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001831,CMP-2026-001831,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001832,CMP-2026-001832,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001833,CMP-2026-001833,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001834,CMP-2026-001834,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001835,CMP-2026-001835,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001836,CMP-2026-001836,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001837,CMP-2026-001837,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001838,CMP-2026-001838,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001839,CMP-2026-001839,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001840,CMP-2026-001840,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001841,CMP-2026-001841,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001842,CMP-2026-001842,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001843,CMP-2026-001843,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001844,CMP-2026-001844,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001845,CMP-2026-001845,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001846,CMP-2026-001846,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001847,CMP-2026-001847,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001848,CMP-2026-001848,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001849,CMP-2026-001849,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001850,CMP-2026-001850,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001851,CMP-2026-001851,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001852,CMP-2026-001852,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001853,CMP-2026-001853,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001854,CMP-2026-001854,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001855,CMP-2026-001855,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001856,CMP-2026-001856,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001857,CMP-2026-001857,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001858,CMP-2026-001858,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001859,CMP-2026-001859,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001860,CMP-2026-001860,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001861,CMP-2026-001861,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001862,CMP-2026-001862,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001863,CMP-2026-001863,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001864,CMP-2026-001864,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001865,CMP-2026-001865,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001866,CMP-2026-001866,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001867,CMP-2026-001867,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001868,CMP-2026-001868,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001869,CMP-2026-001869,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001870,CMP-2026-001870,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001871,CMP-2026-001871,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001872,CMP-2026-001872,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001873,CMP-2026-001873,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001874,CMP-2026-001874,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001875,CMP-2026-001875,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001876,CMP-2026-001876,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001877,CMP-2026-001877,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001878,CMP-2026-001878,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001879,CMP-2026-001879,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001880,CMP-2026-001880,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001881,CMP-2026-001881,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001882,CMP-2026-001882,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001883,CMP-2026-001883,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001884,CMP-2026-001884,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001885,CMP-2026-001885,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001886,CMP-2026-001886,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001887,CMP-2026-001887,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001888,CMP-2026-001888,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001889,CMP-2026-001889,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001890,CMP-2026-001890,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001891,CMP-2026-001891,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001892,CMP-2026-001892,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001893,CMP-2026-001893,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001894,CMP-2026-001894,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001895,CMP-2026-001895,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001896,CMP-2026-001896,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001897,CMP-2026-001897,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001898,CMP-2026-001898,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001899,CMP-2026-001899,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001900,CMP-2026-001900,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001901,CMP-2026-001901,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001902,CMP-2026-001902,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001903,CMP-2026-001903,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001904,CMP-2026-001904,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001905,CMP-2026-001905,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001906,CMP-2026-001906,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001907,CMP-2026-001907,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001908,CMP-2026-001908,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001909,CMP-2026-001909,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001910,CMP-2026-001910,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001911,CMP-2026-001911,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001912,CMP-2026-001912,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001913,CMP-2026-001913,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001914,CMP-2026-001914,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001915,CMP-2026-001915,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001916,CMP-2026-001916,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001917,CMP-2026-001917,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001918,CMP-2026-001918,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001919,CMP-2026-001919,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001920,CMP-2026-001920,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001921,CMP-2026-001921,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001922,CMP-2026-001922,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001923,CMP-2026-001923,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001924,CMP-2026-001924,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001925,CMP-2026-001925,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001926,CMP-2026-001926,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001927,CMP-2026-001927,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001928,CMP-2026-001928,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001929,CMP-2026-001929,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001930,CMP-2026-001930,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001931,CMP-2026-001931,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001932,CMP-2026-001932,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001933,CMP-2026-001933,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001934,CMP-2026-001934,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001935,CMP-2026-001935,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001936,CMP-2026-001936,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001937,CMP-2026-001937,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001938,CMP-2026-001938,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001939,CMP-2026-001939,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001940,CMP-2026-001940,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001941,CMP-2026-001941,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001942,CMP-2026-001942,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001943,CMP-2026-001943,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001944,CMP-2026-001944,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001945,CMP-2026-001945,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001946,CMP-2026-001946,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001947,CMP-2026-001947,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001948,CMP-2026-001948,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001949,CMP-2026-001949,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001950,CMP-2026-001950,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001951,CMP-2026-001951,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001952,CMP-2026-001952,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001953,CMP-2026-001953,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001954,CMP-2026-001954,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001955,CMP-2026-001955,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001956,CMP-2026-001956,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001957,CMP-2026-001957,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001958,CMP-2026-001958,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001959,CMP-2026-001959,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001960,CMP-2026-001960,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001961,CMP-2026-001961,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001962,CMP-2026-001962,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001963,CMP-2026-001963,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001964,CMP-2026-001964,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001965,CMP-2026-001965,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001966,CMP-2026-001966,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001967,CMP-2026-001967,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001968,CMP-2026-001968,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001969,CMP-2026-001969,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001970,CMP-2026-001970,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001971,CMP-2026-001971,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001972,CMP-2026-001972,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001973,CMP-2026-001973,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001974,CMP-2026-001974,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001975,CMP-2026-001975,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001976,CMP-2026-001976,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001977,CMP-2026-001977,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001978,CMP-2026-001978,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001979,CMP-2026-001979,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001980,CMP-2026-001980,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-001981,CMP-2026-001981,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001982,CMP-2026-001982,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001983,CMP-2026-001983,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,6,2026-11-08T20:50:49,True
+RES-CMP-2026-001984,CMP-2026-001984,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001985,CMP-2026-001985,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,10,2026-11-08T20:50:49,True
+RES-CMP-2026-001986,CMP-2026-001986,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001987,CMP-2026-001987,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001988,CMP-2026-001988,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,9,2026-11-08T20:50:49,True
+RES-CMP-2026-001989,CMP-2026-001989,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,13,2026-11-08T20:50:49,True
+RES-CMP-2026-001990,CMP-2026-001990,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,14,2026-11-08T20:50:49,True
+RES-CMP-2026-001991,CMP-2026-001991,DELIVERY_CORRECTION,The delivery issue was investigated and corrective action was recorded.,1,2026-11-08T20:50:49,True
+RES-CMP-2026-001992,CMP-2026-001992,REFUND,The refund request was reviewed and the appropriate refund action was recorded.,4,2026-11-08T20:50:49,True
+RES-CMP-2026-001993,CMP-2026-001993,PAYMENT_CORRECTION,The payment discrepancy was reviewed and corrective action was recorded.,5,2026-11-08T20:50:49,True
+RES-CMP-2026-001994,CMP-2026-001994,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,7,2026-11-08T20:50:49,True
+RES-CMP-2026-001995,CMP-2026-001995,SAFETY_ESCALATION,The safety complaint was reviewed and escalated through the safety response process.,11,2026-11-08T20:50:49,True
+RES-CMP-2026-001996,CMP-2026-001996,REPLACEMENT,The product issue was reviewed and a replacement action was recorded.,2,2026-11-08T20:50:49,True
+RES-CMP-2026-001997,CMP-2026-001997,CANCELLATION,The cancellation request was reviewed and processed.,3,2026-11-08T20:50:49,True
+RES-CMP-2026-001998,CMP-2026-001998,REPAIR_OR_REPLACEMENT,The warranty request was reviewed and a repair or replacement action was recorded.,8,2026-11-08T20:50:49,True
+RES-CMP-2026-001999,CMP-2026-001999,ACCOUNT_ASSISTANCE,The account issue was reviewed and assistance was provided.,12,2026-11-08T20:50:49,True
+RES-CMP-2026-002000,CMP-2026-002000,GENERAL_ASSISTANCE,The complaint was reviewed and an appropriate response was recorded.,13,2026-11-08T20:50:49,True

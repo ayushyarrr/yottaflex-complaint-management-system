@@ -1,0 +1,7 @@
+anomaly_id,issue_type,entity,ground_truth_label,severity,expected_detection
+ANOM-001,COMPLAINT_WITHOUT_CUSTOMER,Complaint,ANOMALY,CRITICAL,Missing customer foreign-key reference
+ANOM-002,RESOLUTION_BEFORE_COMPLAINT,Resolution,ANOMALY,CRITICAL,Resolution timestamp precedes complaint creation
+ANOM-003,INCORRECT_SLA_PAUSE,SLAClock,ANOMALY,HIGH,Paused duration and deadline extension are inconsistent
+ANOM-004,REPEAT_ISSUE_NOT_LINKED,Complaint,ANOMALY,MEDIUM,Repeat complaint relationship and recurrence count are incorrect
+ANOM-005,CRITICAL_SAFETY_LOW_PRIORITY_ASSIGNMENT,Assignment,ANOMALY,CRITICAL,Critical safety complaint routed to the wrong team
+ANOM-006,SURVEY_BEFORE_CLOSURE,Survey,ANOMALY,HIGH,Survey submitted before complaint closure

@@ -1,0 +1,121 @@
+{
+  "database": "complaints_full.db",
+  "export_directory": "data\\generated\\full",
+  "format": [
+    "CSV",
+    "JSON",
+    "SQL"
+  ],
+  "tables": [
+    {
+      "table": "agents",
+      "records": 14,
+      "csv_file": "agents.csv",
+      "json_file": "agents.json"
+    },
+    {
+      "table": "assignments",
+      "records": 1900,
+      "csv_file": "assignments.csv",
+      "json_file": "assignments.json"
+    },
+    {
+      "table": "categories",
+      "records": 10,
+      "csv_file": "categories.csv",
+      "json_file": "categories.json"
+    },
+    {
+      "table": "complaint_events",
+      "records": 8350,
+      "csv_file": "complaint_events.csv",
+      "json_file": "complaint_events.json"
+    },
+    {
+      "table": "complaint_messages",
+      "records": 6000,
+      "csv_file": "complaint_messages.csv",
+      "json_file": "complaint_messages.json"
+    },
+    {
+      "table": "complaint_products",
+      "records": 2901,
+      "csv_file": "complaint_products.csv",
+      "json_file": "complaint_products.json"
+    },
+    {
+      "table": "complaints",
+      "records": 2000,
+      "csv_file": "complaints.csv",
+      "json_file": "complaints.json"
+    },
+    {
+      "table": "customers",
+      "records": 5000,
+      "csv_file": "customers.csv",
+      "json_file": "customers.json"
+    },
+    {
+      "table": "order_items",
+      "records": 15850,
+      "csv_file": "order_items.csv",
+      "json_file": "order_items.json"
+    },
+    {
+      "table": "orders",
+      "records": 8000,
+      "csv_file": "orders.csv",
+      "json_file": "orders.json"
+    },
+    {
+      "table": "priority_decision_rules",
+      "records": 3204,
+      "csv_file": "priority_decision_rules.csv",
+      "json_file": "priority_decision_rules.json"
+    },
+    {
+      "table": "priority_decisions",
+      "records": 2000,
+      "csv_file": "priority_decisions.csv",
+      "json_file": "priority_decisions.json"
+    },
+    {
+      "table": "priority_rules",
+      "records": 9,
+      "csv_file": "priority_rules.csv",
+      "json_file": "priority_rules.json"
+    },
+    {
+      "table": "products",
+      "records": 500,
+      "csv_file": "products.csv",
+      "json_file": "products.json"
+    },
+    {
+      "table": "resolutions",
+      "records": 700,
+      "csv_file": "resolutions.csv",
+      "json_file": "resolutions.json"
+    },
+    {
+      "table": "sla_clocks",
+      "records": 2000,
+      "csv_file": "sla_clocks.csv",
+      "json_file": "sla_clocks.json"
+    },
+    {
+      "table": "surveys",
+      "records": 150,
+      "csv_file": "surveys.csv",
+      "json_file": "surveys.json"
+    },
+    {
+      "table": "teams",
+      "records": 5,
+      "csv_file": "teams.csv",
+      "json_file": "teams.json"
+    }
+  ],
+  "total_tables": 18,
+  "total_records": 58593
+}

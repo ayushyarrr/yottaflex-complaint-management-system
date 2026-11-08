@@ -1,0 +1,11 @@
+﻿category_id,category_name,description,is_active
+1,DELIVERY,"Delivery delays, tracking and shipment issues",True
+2,REFUND,Refund and reimbursement requests,True
+3,PAYMENT,"Payment failures, billing and incorrect charges",True
+4,DAMAGED PRODUCT,"Damaged, defective or malfunctioning products",True
+5,PRODUCT SAFETY,"Safety hazards, injuries and dangerous products",True
+6,MISSING ITEM,Missing items or incomplete orders,True
+7,CANCELLATION,Order cancellation requests,True
+8,WARRANTY,"Warranty, repair and replacement requests",True
+9,ACCOUNT,Account access and login problems,True
+10,OTHER,Complaints that do not fit another category,True

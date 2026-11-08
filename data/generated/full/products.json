@@ -1,0 +1,4502 @@
+[
+  {
+    "product_id": "PROD-000001",
+    "product_name": "Ipsam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 32124.59,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000002",
+    "product_name": "Quasi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 23267.68,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000003",
+    "product_name": "Blanditiis Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 23348.95,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000004",
+    "product_name": "Iure Accessories",
+    "category_name": "Accessories",
+    "unit_price": 6636.07,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000005",
+    "product_name": "Corrupti Fashion",
+    "category_name": "Fashion",
+    "unit_price": 6530.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000006",
+    "product_name": "Dicta Sports",
+    "category_name": "Sports",
+    "unit_price": 12999.15,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000007",
+    "product_name": "Ducimus Accessories",
+    "category_name": "Accessories",
+    "unit_price": 6277.8,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000008",
+    "product_name": "Eum Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 23663.83,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000009",
+    "product_name": "Consequuntur Accessories",
+    "category_name": "Accessories",
+    "unit_price": 25647.51,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000010",
+    "product_name": "Odit Electronics",
+    "category_name": "Electronics",
+    "unit_price": 3797.52,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000011",
+    "product_name": "Porro Furniture",
+    "category_name": "Furniture",
+    "unit_price": 33182.76,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000012",
+    "product_name": "Quos Fashion",
+    "category_name": "Fashion",
+    "unit_price": 13670.65,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000013",
+    "product_name": "Quia Accessories",
+    "category_name": "Accessories",
+    "unit_price": 39331.24,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000014",
+    "product_name": "A Accessories",
+    "category_name": "Accessories",
+    "unit_price": 32352.65,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000015",
+    "product_name": "Ea Electronics",
+    "category_name": "Electronics",
+    "unit_price": 4789.56,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000016",
+    "product_name": "Ab Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 21414.37,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000017",
+    "product_name": "Adipisci Sports",
+    "category_name": "Sports",
+    "unit_price": 45328.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000018",
+    "product_name": "Voluptates Furniture",
+    "category_name": "Furniture",
+    "unit_price": 28948.83,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000019",
+    "product_name": "Architecto Furniture",
+    "category_name": "Furniture",
+    "unit_price": 24306.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000020",
+    "product_name": "Soluta Fashion",
+    "category_name": "Fashion",
+    "unit_price": 46154.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000021",
+    "product_name": "Sed Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 13268.38,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000022",
+    "product_name": "Tempore Accessories",
+    "category_name": "Accessories",
+    "unit_price": 32199.55,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000023",
+    "product_name": "Saepe Accessories",
+    "category_name": "Accessories",
+    "unit_price": 18144.77,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000024",
+    "product_name": "Tempora Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 8292.9,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000025",
+    "product_name": "Soluta Sports",
+    "category_name": "Sports",
+    "unit_price": 7901.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000026",
+    "product_name": "Unde Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 19843.25,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000027",
+    "product_name": "Aliquid Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 45068.29,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000028",
+    "product_name": "Tenetur Fashion",
+    "category_name": "Fashion",
+    "unit_price": 40431.87,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000029",
+    "product_name": "Atque Electronics",
+    "category_name": "Electronics",
+    "unit_price": 20215.94,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000030",
+    "product_name": "Quam Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 16768.74,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000031",
+    "product_name": "Quam Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 20123.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000032",
+    "product_name": "Ipsa Accessories",
+    "category_name": "Accessories",
+    "unit_price": 28212.49,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000033",
+    "product_name": "Sit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 44280.41,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000034",
+    "product_name": "Provident Sports",
+    "category_name": "Sports",
+    "unit_price": 13264.32,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000035",
+    "product_name": "Recusandae Electronics",
+    "category_name": "Electronics",
+    "unit_price": 41476.49,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000036",
+    "product_name": "Neque Fashion",
+    "category_name": "Fashion",
+    "unit_price": 33719.43,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000037",
+    "product_name": "Praesentium Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 43872.02,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000038",
+    "product_name": "Minima Accessories",
+    "category_name": "Accessories",
+    "unit_price": 36769.12,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000039",
+    "product_name": "Delectus Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 41817.14,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000040",
+    "product_name": "Perferendis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 32328.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000041",
+    "product_name": "Animi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 17289.05,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000042",
+    "product_name": "Impedit Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 23156.79,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000043",
+    "product_name": "Deserunt Accessories",
+    "category_name": "Accessories",
+    "unit_price": 8327.48,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000044",
+    "product_name": "Expedita Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 17448.84,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000045",
+    "product_name": "Pariatur Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 665.29,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000046",
+    "product_name": "Pariatur Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 1952.22,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000047",
+    "product_name": "Eum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 1474.51,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000048",
+    "product_name": "Esse Sports",
+    "category_name": "Sports",
+    "unit_price": 40167.9,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000049",
+    "product_name": "Nobis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 32674.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000050",
+    "product_name": "Totam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 3630.26,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000051",
+    "product_name": "Quasi Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 14100.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000052",
+    "product_name": "Corporis Sports",
+    "category_name": "Sports",
+    "unit_price": 36619.69,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000053",
+    "product_name": "Eum Sports",
+    "category_name": "Sports",
+    "unit_price": 47796.61,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000054",
+    "product_name": "Eius Sports",
+    "category_name": "Sports",
+    "unit_price": 47143.09,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000055",
+    "product_name": "Aliquam Accessories",
+    "category_name": "Accessories",
+    "unit_price": 26189.39,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000056",
+    "product_name": "Enim Electronics",
+    "category_name": "Electronics",
+    "unit_price": 17617.84,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000057",
+    "product_name": "Numquam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 40674.59,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000058",
+    "product_name": "Quisquam Sports",
+    "category_name": "Sports",
+    "unit_price": 47551.11,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000059",
+    "product_name": "Quibusdam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 7694.0,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000060",
+    "product_name": "Quae Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 29654.74,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000061",
+    "product_name": "Quae Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 15692.08,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000062",
+    "product_name": "Libero Fashion",
+    "category_name": "Fashion",
+    "unit_price": 28863.21,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000063",
+    "product_name": "Dolores Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 41911.04,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000064",
+    "product_name": "Vero Furniture",
+    "category_name": "Furniture",
+    "unit_price": 42522.42,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000065",
+    "product_name": "Optio Furniture",
+    "category_name": "Furniture",
+    "unit_price": 30592.29,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000066",
+    "product_name": "Provident Furniture",
+    "category_name": "Furniture",
+    "unit_price": 47525.42,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000067",
+    "product_name": "Dicta Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 20100.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000068",
+    "product_name": "Amet Furniture",
+    "category_name": "Furniture",
+    "unit_price": 1937.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000069",
+    "product_name": "Tempore Sports",
+    "category_name": "Sports",
+    "unit_price": 23644.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000070",
+    "product_name": "Fuga Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 45585.74,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000071",
+    "product_name": "Voluptatibus Sports",
+    "category_name": "Sports",
+    "unit_price": 42245.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000072",
+    "product_name": "Pariatur Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 5199.04,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000073",
+    "product_name": "Cupiditate Fashion",
+    "category_name": "Fashion",
+    "unit_price": 38855.69,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000074",
+    "product_name": "Nostrum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 19932.15,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000075",
+    "product_name": "Harum Sports",
+    "category_name": "Sports",
+    "unit_price": 10387.41,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000076",
+    "product_name": "Perferendis Sports",
+    "category_name": "Sports",
+    "unit_price": 20319.91,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000077",
+    "product_name": "Aut Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 22393.96,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000078",
+    "product_name": "Consequatur Fashion",
+    "category_name": "Fashion",
+    "unit_price": 37283.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000079",
+    "product_name": "Deserunt Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 24882.49,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000080",
+    "product_name": "Alias Accessories",
+    "category_name": "Accessories",
+    "unit_price": 20444.71,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000081",
+    "product_name": "Quod Fashion",
+    "category_name": "Fashion",
+    "unit_price": 23524.9,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000082",
+    "product_name": "Ea Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 40966.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000083",
+    "product_name": "Consectetur Fashion",
+    "category_name": "Fashion",
+    "unit_price": 12928.48,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000084",
+    "product_name": "Rerum Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 43980.55,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000085",
+    "product_name": "Nemo Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 13967.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000086",
+    "product_name": "Laboriosam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 14635.91,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000087",
+    "product_name": "Facilis Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 26735.36,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000088",
+    "product_name": "Explicabo Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 25292.29,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000089",
+    "product_name": "Recusandae Electronics",
+    "category_name": "Electronics",
+    "unit_price": 16255.86,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000090",
+    "product_name": "Ipsum Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 14551.25,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000091",
+    "product_name": "Possimus Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 26189.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000092",
+    "product_name": "Dignissimos Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 19880.27,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000093",
+    "product_name": "Fugit Accessories",
+    "category_name": "Accessories",
+    "unit_price": 13617.93,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000094",
+    "product_name": "Corrupti Electronics",
+    "category_name": "Electronics",
+    "unit_price": 16005.53,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000095",
+    "product_name": "Deserunt Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 20736.48,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000096",
+    "product_name": "Veniam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 42471.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000097",
+    "product_name": "Excepturi Fashion",
+    "category_name": "Fashion",
+    "unit_price": 45850.92,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000098",
+    "product_name": "Dolorem Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 13301.54,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000099",
+    "product_name": "Atque Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 34684.68,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000100",
+    "product_name": "Praesentium Electronics",
+    "category_name": "Electronics",
+    "unit_price": 10420.08,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000101",
+    "product_name": "Delectus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 24629.57,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000102",
+    "product_name": "Accusamus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 32677.31,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000103",
+    "product_name": "Perspiciatis Electronics",
+    "category_name": "Electronics",
+    "unit_price": 18525.92,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000104",
+    "product_name": "Atque Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 30034.35,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000105",
+    "product_name": "Maiores Electronics",
+    "category_name": "Electronics",
+    "unit_price": 24108.88,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000106",
+    "product_name": "Nisi Furniture",
+    "category_name": "Furniture",
+    "unit_price": 31770.75,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000107",
+    "product_name": "Praesentium Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 48320.54,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000108",
+    "product_name": "Aperiam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 12629.82,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000109",
+    "product_name": "Eius Accessories",
+    "category_name": "Accessories",
+    "unit_price": 47777.85,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000110",
+    "product_name": "Adipisci Accessories",
+    "category_name": "Accessories",
+    "unit_price": 32896.53,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000111",
+    "product_name": "Quos Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 8114.16,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000112",
+    "product_name": "Magnam Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 41224.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000113",
+    "product_name": "Fuga Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 12056.51,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000114",
+    "product_name": "Modi Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 12887.89,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000115",
+    "product_name": "Sed Furniture",
+    "category_name": "Furniture",
+    "unit_price": 1293.56,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000116",
+    "product_name": "Velit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 39983.25,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000117",
+    "product_name": "Laboriosam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 28878.66,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000118",
+    "product_name": "Dolorem Electronics",
+    "category_name": "Electronics",
+    "unit_price": 40862.69,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000119",
+    "product_name": "Explicabo Accessories",
+    "category_name": "Accessories",
+    "unit_price": 35457.24,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000120",
+    "product_name": "Suscipit Accessories",
+    "category_name": "Accessories",
+    "unit_price": 32228.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000121",
+    "product_name": "Iste Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 11150.74,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000122",
+    "product_name": "Praesentium Sports",
+    "category_name": "Sports",
+    "unit_price": 16247.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000123",
+    "product_name": "Pariatur Accessories",
+    "category_name": "Accessories",
+    "unit_price": 8064.21,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000124",
+    "product_name": "Assumenda Accessories",
+    "category_name": "Accessories",
+    "unit_price": 11592.3,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000125",
+    "product_name": "Aspernatur Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 5963.72,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000126",
+    "product_name": "Voluptate Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 21244.56,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000127",
+    "product_name": "Eligendi Sports",
+    "category_name": "Sports",
+    "unit_price": 41026.37,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000128",
+    "product_name": "Dolorem Fashion",
+    "category_name": "Fashion",
+    "unit_price": 32123.11,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000129",
+    "product_name": "Consequatur Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 28602.89,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000130",
+    "product_name": "Culpa Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 7446.9,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000131",
+    "product_name": "Corporis Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 36275.1,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000132",
+    "product_name": "Debitis Sports",
+    "category_name": "Sports",
+    "unit_price": 23792.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000133",
+    "product_name": "Rem Electronics",
+    "category_name": "Electronics",
+    "unit_price": 9374.71,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000134",
+    "product_name": "Asperiores Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 34762.55,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000135",
+    "product_name": "Unde Furniture",
+    "category_name": "Furniture",
+    "unit_price": 2771.37,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000136",
+    "product_name": "Libero Fashion",
+    "category_name": "Fashion",
+    "unit_price": 17247.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000137",
+    "product_name": "Optio Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 45212.28,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000138",
+    "product_name": "Fuga Sports",
+    "category_name": "Sports",
+    "unit_price": 11733.52,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000139",
+    "product_name": "Laboriosam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 31167.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000140",
+    "product_name": "Accusantium Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 13420.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000141",
+    "product_name": "Quibusdam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 37300.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000142",
+    "product_name": "Minima Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 26019.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000143",
+    "product_name": "Est Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 46624.55,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000144",
+    "product_name": "Labore Sports",
+    "category_name": "Sports",
+    "unit_price": 42029.56,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000145",
+    "product_name": "Quam Accessories",
+    "category_name": "Accessories",
+    "unit_price": 19799.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000146",
+    "product_name": "Quasi Electronics",
+    "category_name": "Electronics",
+    "unit_price": 23487.81,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000147",
+    "product_name": "Quo Fashion",
+    "category_name": "Fashion",
+    "unit_price": 4422.85,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000148",
+    "product_name": "Repellendus Accessories",
+    "category_name": "Accessories",
+    "unit_price": 11188.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000149",
+    "product_name": "Expedita Furniture",
+    "category_name": "Furniture",
+    "unit_price": 24762.48,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000150",
+    "product_name": "Cupiditate Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 1654.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000151",
+    "product_name": "Illum Furniture",
+    "category_name": "Furniture",
+    "unit_price": 15051.04,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000152",
+    "product_name": "Numquam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 24923.4,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000153",
+    "product_name": "Magnam Fashion",
+    "category_name": "Fashion",
+    "unit_price": 411.61,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000154",
+    "product_name": "Debitis Electronics",
+    "category_name": "Electronics",
+    "unit_price": 26974.82,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000155",
+    "product_name": "Officia Electronics",
+    "category_name": "Electronics",
+    "unit_price": 15666.62,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000156",
+    "product_name": "Amet Electronics",
+    "category_name": "Electronics",
+    "unit_price": 4720.06,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000157",
+    "product_name": "Deleniti Sports",
+    "category_name": "Sports",
+    "unit_price": 39760.2,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000158",
+    "product_name": "Minima Accessories",
+    "category_name": "Accessories",
+    "unit_price": 39615.05,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000159",
+    "product_name": "Non Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 22332.92,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000160",
+    "product_name": "Error Electronics",
+    "category_name": "Electronics",
+    "unit_price": 6004.15,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000161",
+    "product_name": "Laborum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 8182.09,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000162",
+    "product_name": "Illum Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 27738.44,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000163",
+    "product_name": "Nisi Accessories",
+    "category_name": "Accessories",
+    "unit_price": 34740.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000164",
+    "product_name": "Aliquam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 47670.67,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000165",
+    "product_name": "Earum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 17550.21,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000166",
+    "product_name": "Voluptate Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 5127.94,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000167",
+    "product_name": "Nobis Furniture",
+    "category_name": "Furniture",
+    "unit_price": 31851.74,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000168",
+    "product_name": "Ad Sports",
+    "category_name": "Sports",
+    "unit_price": 39044.23,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000169",
+    "product_name": "Odio Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 13579.52,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000170",
+    "product_name": "Expedita Accessories",
+    "category_name": "Accessories",
+    "unit_price": 1466.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000171",
+    "product_name": "Quaerat Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 15513.27,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000172",
+    "product_name": "Id Fashion",
+    "category_name": "Fashion",
+    "unit_price": 12848.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000173",
+    "product_name": "Debitis Accessories",
+    "category_name": "Accessories",
+    "unit_price": 30795.91,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000174",
+    "product_name": "Beatae Electronics",
+    "category_name": "Electronics",
+    "unit_price": 43589.5,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000175",
+    "product_name": "Excepturi Furniture",
+    "category_name": "Furniture",
+    "unit_price": 24608.61,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000176",
+    "product_name": "Voluptates Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 22880.89,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000177",
+    "product_name": "Unde Fashion",
+    "category_name": "Fashion",
+    "unit_price": 23861.47,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000178",
+    "product_name": "Dolor Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 39558.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000179",
+    "product_name": "Expedita Furniture",
+    "category_name": "Furniture",
+    "unit_price": 20440.56,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000180",
+    "product_name": "Assumenda Electronics",
+    "category_name": "Electronics",
+    "unit_price": 35764.4,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000181",
+    "product_name": "Qui Sports",
+    "category_name": "Sports",
+    "unit_price": 45259.41,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000182",
+    "product_name": "Necessitatibus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 12644.33,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000183",
+    "product_name": "Culpa Furniture",
+    "category_name": "Furniture",
+    "unit_price": 43401.52,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000184",
+    "product_name": "Repellendus Electronics",
+    "category_name": "Electronics",
+    "unit_price": 34824.59,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000185",
+    "product_name": "Repellendus Furniture",
+    "category_name": "Furniture",
+    "unit_price": 24128.32,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000186",
+    "product_name": "Voluptate Furniture",
+    "category_name": "Furniture",
+    "unit_price": 40668.69,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000187",
+    "product_name": "Vel Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 8554.73,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000188",
+    "product_name": "Itaque Furniture",
+    "category_name": "Furniture",
+    "unit_price": 7040.52,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000189",
+    "product_name": "Sapiente Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 19064.5,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000190",
+    "product_name": "Officia Electronics",
+    "category_name": "Electronics",
+    "unit_price": 5493.53,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000191",
+    "product_name": "Quisquam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 20946.99,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000192",
+    "product_name": "Perferendis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 29576.64,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000193",
+    "product_name": "Vero Electronics",
+    "category_name": "Electronics",
+    "unit_price": 36551.48,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000194",
+    "product_name": "Consequatur Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 2396.65,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000195",
+    "product_name": "Sapiente Sports",
+    "category_name": "Sports",
+    "unit_price": 4877.45,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000196",
+    "product_name": "Eius Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 38768.71,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000197",
+    "product_name": "Quasi Fashion",
+    "category_name": "Fashion",
+    "unit_price": 11680.47,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000198",
+    "product_name": "Eveniet Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 22788.87,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000199",
+    "product_name": "Esse Furniture",
+    "category_name": "Furniture",
+    "unit_price": 7817.75,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000200",
+    "product_name": "Tempora Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 13358.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000201",
+    "product_name": "Repellendus Electronics",
+    "category_name": "Electronics",
+    "unit_price": 45256.17,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000202",
+    "product_name": "Illo Sports",
+    "category_name": "Sports",
+    "unit_price": 33333.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000203",
+    "product_name": "Reiciendis Accessories",
+    "category_name": "Accessories",
+    "unit_price": 5467.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000204",
+    "product_name": "In Fashion",
+    "category_name": "Fashion",
+    "unit_price": 17226.18,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000205",
+    "product_name": "Illo Fashion",
+    "category_name": "Fashion",
+    "unit_price": 24688.65,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000206",
+    "product_name": "Animi Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 15667.3,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000207",
+    "product_name": "Quae Sports",
+    "category_name": "Sports",
+    "unit_price": 44559.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000208",
+    "product_name": "Asperiores Accessories",
+    "category_name": "Accessories",
+    "unit_price": 2849.78,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000209",
+    "product_name": "Ipsum Fashion",
+    "category_name": "Fashion",
+    "unit_price": 35878.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000210",
+    "product_name": "Fugit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 29373.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000211",
+    "product_name": "Id Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 36536.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000212",
+    "product_name": "Dolorem Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 12187.85,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000213",
+    "product_name": "Doloremque Accessories",
+    "category_name": "Accessories",
+    "unit_price": 22877.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000214",
+    "product_name": "Earum Furniture",
+    "category_name": "Furniture",
+    "unit_price": 6425.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000215",
+    "product_name": "Expedita Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 25569.82,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000216",
+    "product_name": "Natus Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 46346.6,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000217",
+    "product_name": "Quo Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 33354.24,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000218",
+    "product_name": "Ullam Electronics",
+    "category_name": "Electronics",
+    "unit_price": 2433.65,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000219",
+    "product_name": "Harum Fashion",
+    "category_name": "Fashion",
+    "unit_price": 47904.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000220",
+    "product_name": "Minima Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 25112.14,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000221",
+    "product_name": "Modi Fashion",
+    "category_name": "Fashion",
+    "unit_price": 18530.28,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000222",
+    "product_name": "Distinctio Accessories",
+    "category_name": "Accessories",
+    "unit_price": 14097.72,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000223",
+    "product_name": "Rerum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 36817.53,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000224",
+    "product_name": "Rerum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 32103.28,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000225",
+    "product_name": "Illum Fashion",
+    "category_name": "Fashion",
+    "unit_price": 14724.67,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000226",
+    "product_name": "Quas Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 5884.99,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000227",
+    "product_name": "Laborum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 44080.05,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000228",
+    "product_name": "Inventore Electronics",
+    "category_name": "Electronics",
+    "unit_price": 11167.98,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000229",
+    "product_name": "Consequatur Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 23356.67,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000230",
+    "product_name": "Laudantium Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 24895.95,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000231",
+    "product_name": "Aperiam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 14024.08,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000232",
+    "product_name": "Vel Furniture",
+    "category_name": "Furniture",
+    "unit_price": 3961.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000233",
+    "product_name": "Nisi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 44961.14,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000234",
+    "product_name": "Placeat Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 29403.47,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000235",
+    "product_name": "Itaque Accessories",
+    "category_name": "Accessories",
+    "unit_price": 2167.25,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000236",
+    "product_name": "Quisquam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 15776.94,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000237",
+    "product_name": "Alias Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 6850.96,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000238",
+    "product_name": "Libero Sports",
+    "category_name": "Sports",
+    "unit_price": 3214.91,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000239",
+    "product_name": "Id Fashion",
+    "category_name": "Fashion",
+    "unit_price": 28625.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000240",
+    "product_name": "Voluptatum Furniture",
+    "category_name": "Furniture",
+    "unit_price": 49602.44,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000241",
+    "product_name": "Voluptatibus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 34451.22,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000242",
+    "product_name": "Non Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 36932.83,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000243",
+    "product_name": "Repellat Furniture",
+    "category_name": "Furniture",
+    "unit_price": 1703.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000244",
+    "product_name": "Nostrum Sports",
+    "category_name": "Sports",
+    "unit_price": 33353.47,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000245",
+    "product_name": "Ullam Accessories",
+    "category_name": "Accessories",
+    "unit_price": 5448.18,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000246",
+    "product_name": "Reprehenderit Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 26268.13,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000247",
+    "product_name": "Tenetur Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 45348.19,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000248",
+    "product_name": "Quos Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 46431.52,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000249",
+    "product_name": "Pariatur Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 9028.82,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000250",
+    "product_name": "Repudiandae Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 41112.86,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000251",
+    "product_name": "Repudiandae Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 34134.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000252",
+    "product_name": "Adipisci Fashion",
+    "category_name": "Fashion",
+    "unit_price": 25027.75,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000253",
+    "product_name": "Iure Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 21596.09,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000254",
+    "product_name": "Quod Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 17949.78,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000255",
+    "product_name": "Deserunt Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 42152.28,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000256",
+    "product_name": "Voluptatibus Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 16448.55,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000257",
+    "product_name": "Molestiae Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 3542.23,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000258",
+    "product_name": "Cupiditate Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 638.07,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000259",
+    "product_name": "Officia Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 26142.87,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000260",
+    "product_name": "Soluta Furniture",
+    "category_name": "Furniture",
+    "unit_price": 32236.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000261",
+    "product_name": "Porro Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 45310.11,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000262",
+    "product_name": "Ullam Accessories",
+    "category_name": "Accessories",
+    "unit_price": 36488.89,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000263",
+    "product_name": "Ex Furniture",
+    "category_name": "Furniture",
+    "unit_price": 41615.27,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000264",
+    "product_name": "Pariatur Fashion",
+    "category_name": "Fashion",
+    "unit_price": 24039.83,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000265",
+    "product_name": "Eaque Electronics",
+    "category_name": "Electronics",
+    "unit_price": 29621.25,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000266",
+    "product_name": "Itaque Electronics",
+    "category_name": "Electronics",
+    "unit_price": 1150.07,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000267",
+    "product_name": "A Furniture",
+    "category_name": "Furniture",
+    "unit_price": 40119.11,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000268",
+    "product_name": "Facilis Sports",
+    "category_name": "Sports",
+    "unit_price": 47064.43,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000269",
+    "product_name": "Repellendus Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 43900.63,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000270",
+    "product_name": "Assumenda Accessories",
+    "category_name": "Accessories",
+    "unit_price": 47639.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000271",
+    "product_name": "Architecto Electronics",
+    "category_name": "Electronics",
+    "unit_price": 1695.86,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000272",
+    "product_name": "Esse Furniture",
+    "category_name": "Furniture",
+    "unit_price": 32459.83,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000273",
+    "product_name": "Quos Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 9744.15,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000274",
+    "product_name": "Atque Fashion",
+    "category_name": "Fashion",
+    "unit_price": 3377.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000275",
+    "product_name": "Consequatur Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 13574.19,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000276",
+    "product_name": "Eos Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 22643.44,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000277",
+    "product_name": "Magnam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 32284.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000278",
+    "product_name": "Vitae Accessories",
+    "category_name": "Accessories",
+    "unit_price": 3860.88,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000279",
+    "product_name": "Dolorem Furniture",
+    "category_name": "Furniture",
+    "unit_price": 45871.94,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000280",
+    "product_name": "Veniam Fashion",
+    "category_name": "Fashion",
+    "unit_price": 6580.4,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000281",
+    "product_name": "At Accessories",
+    "category_name": "Accessories",
+    "unit_price": 25625.75,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000282",
+    "product_name": "Rem Fashion",
+    "category_name": "Fashion",
+    "unit_price": 33237.82,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000283",
+    "product_name": "Saepe Fashion",
+    "category_name": "Fashion",
+    "unit_price": 33711.96,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000284",
+    "product_name": "Animi Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 44941.73,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000285",
+    "product_name": "Magnam Accessories",
+    "category_name": "Accessories",
+    "unit_price": 25136.41,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000286",
+    "product_name": "Blanditiis Furniture",
+    "category_name": "Furniture",
+    "unit_price": 8631.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000287",
+    "product_name": "Natus Accessories",
+    "category_name": "Accessories",
+    "unit_price": 2014.88,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000288",
+    "product_name": "Iure Sports",
+    "category_name": "Sports",
+    "unit_price": 18556.05,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000289",
+    "product_name": "Culpa Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 49405.42,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000290",
+    "product_name": "Beatae Furniture",
+    "category_name": "Furniture",
+    "unit_price": 17124.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000291",
+    "product_name": "Natus Electronics",
+    "category_name": "Electronics",
+    "unit_price": 6920.75,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000292",
+    "product_name": "Aut Accessories",
+    "category_name": "Accessories",
+    "unit_price": 47761.18,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000293",
+    "product_name": "Esse Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 22280.14,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000294",
+    "product_name": "Maiores Furniture",
+    "category_name": "Furniture",
+    "unit_price": 27834.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000295",
+    "product_name": "Voluptatum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 31884.43,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000296",
+    "product_name": "Deleniti Accessories",
+    "category_name": "Accessories",
+    "unit_price": 9819.32,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000297",
+    "product_name": "Provident Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 30906.53,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000298",
+    "product_name": "Voluptate Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 43865.74,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000299",
+    "product_name": "Possimus Fashion",
+    "category_name": "Fashion",
+    "unit_price": 2248.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000300",
+    "product_name": "Dolorem Fashion",
+    "category_name": "Fashion",
+    "unit_price": 34767.82,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000301",
+    "product_name": "Voluptate Accessories",
+    "category_name": "Accessories",
+    "unit_price": 31887.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000302",
+    "product_name": "Expedita Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 21239.24,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000303",
+    "product_name": "At Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 36242.95,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000304",
+    "product_name": "Accusantium Furniture",
+    "category_name": "Furniture",
+    "unit_price": 10293.91,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000305",
+    "product_name": "Minima Sports",
+    "category_name": "Sports",
+    "unit_price": 46903.3,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000306",
+    "product_name": "Reprehenderit Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 19870.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000307",
+    "product_name": "Sapiente Furniture",
+    "category_name": "Furniture",
+    "unit_price": 3178.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000308",
+    "product_name": "Quibusdam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 25893.26,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000309",
+    "product_name": "Rem Sports",
+    "category_name": "Sports",
+    "unit_price": 4716.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000310",
+    "product_name": "Tempora Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 12560.68,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000311",
+    "product_name": "Veritatis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 8782.77,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000312",
+    "product_name": "Suscipit Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 37920.87,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000313",
+    "product_name": "Velit Furniture",
+    "category_name": "Furniture",
+    "unit_price": 45918.93,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000314",
+    "product_name": "Deleniti Electronics",
+    "category_name": "Electronics",
+    "unit_price": 11661.56,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000315",
+    "product_name": "Error Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 45274.72,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000316",
+    "product_name": "Odit Furniture",
+    "category_name": "Furniture",
+    "unit_price": 16520.38,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000317",
+    "product_name": "Distinctio Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 11163.71,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000318",
+    "product_name": "Eos Electronics",
+    "category_name": "Electronics",
+    "unit_price": 29923.19,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000319",
+    "product_name": "Laborum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 49866.32,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000320",
+    "product_name": "Dicta Accessories",
+    "category_name": "Accessories",
+    "unit_price": 49122.78,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000321",
+    "product_name": "Laborum Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 42628.69,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000322",
+    "product_name": "In Fashion",
+    "category_name": "Fashion",
+    "unit_price": 2655.08,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000323",
+    "product_name": "Sunt Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 32013.45,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000324",
+    "product_name": "Voluptates Sports",
+    "category_name": "Sports",
+    "unit_price": 44902.04,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000325",
+    "product_name": "Magni Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 25511.97,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000326",
+    "product_name": "Neque Fashion",
+    "category_name": "Fashion",
+    "unit_price": 10851.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000327",
+    "product_name": "Illo Sports",
+    "category_name": "Sports",
+    "unit_price": 36251.39,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000328",
+    "product_name": "Itaque Fashion",
+    "category_name": "Fashion",
+    "unit_price": 24204.04,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000329",
+    "product_name": "Odio Fashion",
+    "category_name": "Fashion",
+    "unit_price": 47949.2,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000330",
+    "product_name": "Accusantium Furniture",
+    "category_name": "Furniture",
+    "unit_price": 26038.04,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000331",
+    "product_name": "Assumenda Sports",
+    "category_name": "Sports",
+    "unit_price": 34017.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000332",
+    "product_name": "Officiis Sports",
+    "category_name": "Sports",
+    "unit_price": 37044.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000333",
+    "product_name": "Quaerat Accessories",
+    "category_name": "Accessories",
+    "unit_price": 3718.83,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000334",
+    "product_name": "Corrupti Accessories",
+    "category_name": "Accessories",
+    "unit_price": 6642.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000335",
+    "product_name": "Ipsum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 17614.96,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000336",
+    "product_name": "Ea Furniture",
+    "category_name": "Furniture",
+    "unit_price": 5279.67,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000337",
+    "product_name": "Odit Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 16624.54,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000338",
+    "product_name": "Voluptatum Furniture",
+    "category_name": "Furniture",
+    "unit_price": 28498.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000339",
+    "product_name": "Nisi Sports",
+    "category_name": "Sports",
+    "unit_price": 10905.24,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000340",
+    "product_name": "Ducimus Accessories",
+    "category_name": "Accessories",
+    "unit_price": 34007.74,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000341",
+    "product_name": "Fugiat Sports",
+    "category_name": "Sports",
+    "unit_price": 7631.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000342",
+    "product_name": "Odit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 22013.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000343",
+    "product_name": "Tenetur Accessories",
+    "category_name": "Accessories",
+    "unit_price": 40995.21,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000344",
+    "product_name": "Similique Accessories",
+    "category_name": "Accessories",
+    "unit_price": 2687.72,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000345",
+    "product_name": "Quos Electronics",
+    "category_name": "Electronics",
+    "unit_price": 239.91,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000346",
+    "product_name": "Aut Fashion",
+    "category_name": "Fashion",
+    "unit_price": 12877.23,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000347",
+    "product_name": "Rem Electronics",
+    "category_name": "Electronics",
+    "unit_price": 43150.13,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000348",
+    "product_name": "Labore Accessories",
+    "category_name": "Accessories",
+    "unit_price": 18814.39,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000349",
+    "product_name": "Odit Electronics",
+    "category_name": "Electronics",
+    "unit_price": 18652.38,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000350",
+    "product_name": "Dignissimos Furniture",
+    "category_name": "Furniture",
+    "unit_price": 49579.29,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000351",
+    "product_name": "Earum Sports",
+    "category_name": "Sports",
+    "unit_price": 9281.92,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000352",
+    "product_name": "Explicabo Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 37448.33,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000353",
+    "product_name": "Recusandae Fashion",
+    "category_name": "Fashion",
+    "unit_price": 37697.54,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000354",
+    "product_name": "Natus Accessories",
+    "category_name": "Accessories",
+    "unit_price": 1738.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000355",
+    "product_name": "Quasi Furniture",
+    "category_name": "Furniture",
+    "unit_price": 7518.2,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000356",
+    "product_name": "Aperiam Sports",
+    "category_name": "Sports",
+    "unit_price": 38988.62,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000357",
+    "product_name": "Veritatis Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 4602.23,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000358",
+    "product_name": "Quas Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 27038.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000359",
+    "product_name": "Deserunt Sports",
+    "category_name": "Sports",
+    "unit_price": 26361.63,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000360",
+    "product_name": "Eligendi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 22062.0,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000361",
+    "product_name": "Reprehenderit Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 36362.01,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000362",
+    "product_name": "Doloremque Fashion",
+    "category_name": "Fashion",
+    "unit_price": 25337.06,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000363",
+    "product_name": "Fugiat Accessories",
+    "category_name": "Accessories",
+    "unit_price": 46993.59,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000364",
+    "product_name": "Similique Fashion",
+    "category_name": "Fashion",
+    "unit_price": 5642.31,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000365",
+    "product_name": "Explicabo Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 49110.18,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000366",
+    "product_name": "Aperiam Furniture",
+    "category_name": "Furniture",
+    "unit_price": 38112.89,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000367",
+    "product_name": "Tempora Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 27162.17,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000368",
+    "product_name": "Impedit Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 13239.77,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000369",
+    "product_name": "Minus Furniture",
+    "category_name": "Furniture",
+    "unit_price": 33384.83,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000370",
+    "product_name": "Quaerat Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 38020.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000371",
+    "product_name": "Laudantium Fashion",
+    "category_name": "Fashion",
+    "unit_price": 47578.26,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000372",
+    "product_name": "Nisi Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 4109.71,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000373",
+    "product_name": "Illo Furniture",
+    "category_name": "Furniture",
+    "unit_price": 41271.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000374",
+    "product_name": "Consectetur Sports",
+    "category_name": "Sports",
+    "unit_price": 27088.57,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000375",
+    "product_name": "Repellendus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 2110.91,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000376",
+    "product_name": "Qui Furniture",
+    "category_name": "Furniture",
+    "unit_price": 17184.45,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000377",
+    "product_name": "Eum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 3650.91,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000378",
+    "product_name": "Quis Electronics",
+    "category_name": "Electronics",
+    "unit_price": 23885.77,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000379",
+    "product_name": "Voluptatem Accessories",
+    "category_name": "Accessories",
+    "unit_price": 36332.94,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000380",
+    "product_name": "Deserunt Sports",
+    "category_name": "Sports",
+    "unit_price": 16014.78,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000381",
+    "product_name": "Nostrum Fashion",
+    "category_name": "Fashion",
+    "unit_price": 3259.19,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000382",
+    "product_name": "Commodi Sports",
+    "category_name": "Sports",
+    "unit_price": 2675.79,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000383",
+    "product_name": "Provident Accessories",
+    "category_name": "Accessories",
+    "unit_price": 41863.48,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000384",
+    "product_name": "Maxime Furniture",
+    "category_name": "Furniture",
+    "unit_price": 48371.54,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000385",
+    "product_name": "Consequatur Electronics",
+    "category_name": "Electronics",
+    "unit_price": 4940.54,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000386",
+    "product_name": "Iure Furniture",
+    "category_name": "Furniture",
+    "unit_price": 14150.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000387",
+    "product_name": "Sapiente Electronics",
+    "category_name": "Electronics",
+    "unit_price": 39643.93,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000388",
+    "product_name": "Nobis Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 48622.16,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000389",
+    "product_name": "Ut Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 13576.98,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000390",
+    "product_name": "Qui Fashion",
+    "category_name": "Fashion",
+    "unit_price": 48389.33,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000391",
+    "product_name": "Sunt Accessories",
+    "category_name": "Accessories",
+    "unit_price": 35763.41,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000392",
+    "product_name": "Autem Electronics",
+    "category_name": "Electronics",
+    "unit_price": 38479.77,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000393",
+    "product_name": "Sapiente Furniture",
+    "category_name": "Furniture",
+    "unit_price": 23960.15,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000394",
+    "product_name": "Quae Sports",
+    "category_name": "Sports",
+    "unit_price": 42081.66,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000395",
+    "product_name": "Amet Furniture",
+    "category_name": "Furniture",
+    "unit_price": 47083.82,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000396",
+    "product_name": "Itaque Sports",
+    "category_name": "Sports",
+    "unit_price": 18328.73,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000397",
+    "product_name": "Velit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 4859.74,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000398",
+    "product_name": "Assumenda Sports",
+    "category_name": "Sports",
+    "unit_price": 43113.18,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000399",
+    "product_name": "Ex Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 9957.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000400",
+    "product_name": "Ab Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 2494.36,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000401",
+    "product_name": "Necessitatibus Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 31774.37,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000402",
+    "product_name": "Ducimus Furniture",
+    "category_name": "Furniture",
+    "unit_price": 47084.01,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000403",
+    "product_name": "Fuga Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 19727.46,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000404",
+    "product_name": "Vero Fashion",
+    "category_name": "Fashion",
+    "unit_price": 41831.58,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000405",
+    "product_name": "Assumenda Furniture",
+    "category_name": "Furniture",
+    "unit_price": 42170.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000406",
+    "product_name": "Quos Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 16102.16,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000407",
+    "product_name": "Distinctio Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 17959.4,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000408",
+    "product_name": "Quae Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 20259.98,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000409",
+    "product_name": "Ipsam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 21792.59,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000410",
+    "product_name": "Neque Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 37511.78,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000411",
+    "product_name": "Perferendis Sports",
+    "category_name": "Sports",
+    "unit_price": 18840.67,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000412",
+    "product_name": "Sapiente Fashion",
+    "category_name": "Fashion",
+    "unit_price": 32081.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000413",
+    "product_name": "A Accessories",
+    "category_name": "Accessories",
+    "unit_price": 24801.93,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000414",
+    "product_name": "In Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 16948.56,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000415",
+    "product_name": "Quis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 29197.42,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000416",
+    "product_name": "Dolor Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 10451.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000417",
+    "product_name": "Officiis Electronics",
+    "category_name": "Electronics",
+    "unit_price": 28719.99,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000418",
+    "product_name": "Exercitationem Furniture",
+    "category_name": "Furniture",
+    "unit_price": 13654.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000419",
+    "product_name": "Nihil Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 8417.19,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000420",
+    "product_name": "Perspiciatis Fashion",
+    "category_name": "Fashion",
+    "unit_price": 24549.33,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000421",
+    "product_name": "Pariatur Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 25122.49,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000422",
+    "product_name": "Consectetur Electronics",
+    "category_name": "Electronics",
+    "unit_price": 12762.27,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000423",
+    "product_name": "Dignissimos Furniture",
+    "category_name": "Furniture",
+    "unit_price": 4289.86,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000424",
+    "product_name": "Fugiat Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 41613.04,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000425",
+    "product_name": "Possimus Fashion",
+    "category_name": "Fashion",
+    "unit_price": 639.44,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000426",
+    "product_name": "Reiciendis Accessories",
+    "category_name": "Accessories",
+    "unit_price": 36314.61,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000427",
+    "product_name": "Ipsa Fashion",
+    "category_name": "Fashion",
+    "unit_price": 7009.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000428",
+    "product_name": "Blanditiis Furniture",
+    "category_name": "Furniture",
+    "unit_price": 16889.71,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000429",
+    "product_name": "Sapiente Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 42653.43,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000430",
+    "product_name": "Eius Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 44321.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000431",
+    "product_name": "Expedita Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 5412.13,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000432",
+    "product_name": "Dolores Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 20942.24,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000433",
+    "product_name": "Quas Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 30772.21,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000434",
+    "product_name": "Quisquam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 39966.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000435",
+    "product_name": "Aut Accessories",
+    "category_name": "Accessories",
+    "unit_price": 21991.12,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000436",
+    "product_name": "Illo Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 46197.86,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000437",
+    "product_name": "Itaque Accessories",
+    "category_name": "Accessories",
+    "unit_price": 48417.66,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000438",
+    "product_name": "Minima Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 44951.95,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000439",
+    "product_name": "Modi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 44909.26,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000440",
+    "product_name": "Blanditiis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 49388.23,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000441",
+    "product_name": "Ipsa Sports",
+    "category_name": "Sports",
+    "unit_price": 49009.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000442",
+    "product_name": "Laborum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 43810.11,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000443",
+    "product_name": "Explicabo Fashion",
+    "category_name": "Fashion",
+    "unit_price": 7498.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000444",
+    "product_name": "Mollitia Fashion",
+    "category_name": "Fashion",
+    "unit_price": 13608.03,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000445",
+    "product_name": "Dolorum Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 33384.56,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000446",
+    "product_name": "Molestiae Furniture",
+    "category_name": "Furniture",
+    "unit_price": 23004.96,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000447",
+    "product_name": "Veniam Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 37596.43,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000448",
+    "product_name": "Ad Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 30836.75,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000449",
+    "product_name": "Deserunt Electronics",
+    "category_name": "Electronics",
+    "unit_price": 32341.42,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000450",
+    "product_name": "Hic Sports",
+    "category_name": "Sports",
+    "unit_price": 37699.65,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000451",
+    "product_name": "Iste Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 19635.18,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000452",
+    "product_name": "Enim Furniture",
+    "category_name": "Furniture",
+    "unit_price": 1657.09,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000453",
+    "product_name": "Voluptatibus Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 17373.81,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000454",
+    "product_name": "Ullam Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 25181.01,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000455",
+    "product_name": "Quibusdam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 35387.84,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000456",
+    "product_name": "In Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 14530.11,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000457",
+    "product_name": "Animi Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 22734.57,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000458",
+    "product_name": "Consectetur Accessories",
+    "category_name": "Accessories",
+    "unit_price": 26937.05,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000459",
+    "product_name": "Et Fashion",
+    "category_name": "Fashion",
+    "unit_price": 11136.17,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000460",
+    "product_name": "Aspernatur Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 2811.7,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000461",
+    "product_name": "Numquam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 29340.0,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000462",
+    "product_name": "Quisquam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 14661.48,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000463",
+    "product_name": "Fugit Fashion",
+    "category_name": "Fashion",
+    "unit_price": 7606.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000464",
+    "product_name": "Dolores Sports",
+    "category_name": "Sports",
+    "unit_price": 49490.07,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000465",
+    "product_name": "Minus Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 48774.68,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000466",
+    "product_name": "Mollitia Electronics",
+    "category_name": "Electronics",
+    "unit_price": 32777.1,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000467",
+    "product_name": "Iste Accessories",
+    "category_name": "Accessories",
+    "unit_price": 35344.5,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000468",
+    "product_name": "Porro Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 34397.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000469",
+    "product_name": "Odit Sports",
+    "category_name": "Sports",
+    "unit_price": 26914.85,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000470",
+    "product_name": "Harum Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 33345.4,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000471",
+    "product_name": "Aut Furniture",
+    "category_name": "Furniture",
+    "unit_price": 20699.8,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000472",
+    "product_name": "Expedita Furniture",
+    "category_name": "Furniture",
+    "unit_price": 20804.29,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000473",
+    "product_name": "Aliquam Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 746.09,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000474",
+    "product_name": "Optio Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 46063.63,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000475",
+    "product_name": "Modi Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 26154.32,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000476",
+    "product_name": "Quas Electronics",
+    "category_name": "Electronics",
+    "unit_price": 21265.55,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000477",
+    "product_name": "Natus Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 17111.58,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000478",
+    "product_name": "Dicta Sports",
+    "category_name": "Sports",
+    "unit_price": 33430.16,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000479",
+    "product_name": "Similique Furniture",
+    "category_name": "Furniture",
+    "unit_price": 49276.22,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000480",
+    "product_name": "Eaque Sports",
+    "category_name": "Sports",
+    "unit_price": 34581.27,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000481",
+    "product_name": "Corporis Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 25867.44,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000482",
+    "product_name": "Nesciunt Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 16793.48,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000483",
+    "product_name": "Impedit Home Appliances",
+    "category_name": "Home Appliances",
+    "unit_price": 46782.58,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000484",
+    "product_name": "Quidem Accessories",
+    "category_name": "Accessories",
+    "unit_price": 47474.35,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000485",
+    "product_name": "Incidunt Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 36408.25,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000486",
+    "product_name": "Dolor Accessories",
+    "category_name": "Accessories",
+    "unit_price": 3685.38,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000487",
+    "product_name": "Perferendis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 28941.54,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000488",
+    "product_name": "Aspernatur Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 38714.34,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000489",
+    "product_name": "Odit Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 28986.98,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000490",
+    "product_name": "Beatae Furniture",
+    "category_name": "Furniture",
+    "unit_price": 27603.33,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000491",
+    "product_name": "Laborum Furniture",
+    "category_name": "Furniture",
+    "unit_price": 38578.1,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000492",
+    "product_name": "Delectus Furniture",
+    "category_name": "Furniture",
+    "unit_price": 43793.6,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000493",
+    "product_name": "Minima Furniture",
+    "category_name": "Furniture",
+    "unit_price": 45915.97,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000494",
+    "product_name": "Non Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 43479.42,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000495",
+    "product_name": "Culpa Accessories",
+    "category_name": "Accessories",
+    "unit_price": 39523.57,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000496",
+    "product_name": "Voluptas Furniture",
+    "category_name": "Furniture",
+    "unit_price": 28352.75,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000497",
+    "product_name": "Omnis Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 36119.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000498",
+    "product_name": "Iure Accessories",
+    "category_name": "Accessories",
+    "unit_price": 9223.14,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000499",
+    "product_name": "Ut Personal Care",
+    "category_name": "Personal Care",
+    "unit_price": 24377.64,
+    "is_safety_sensitive": false,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  },
+  {
+    "product_id": "PROD-000500",
+    "product_name": "Officia Kitchen",
+    "category_name": "Kitchen",
+    "unit_price": 36474.86,
+    "is_safety_sensitive": true,
+    "status": "ACTIVE",
+    "created_at": "2026-11-08T19:48:27"
+  }
+]

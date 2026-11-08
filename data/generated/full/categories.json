@@ -1,0 +1,62 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "DELIVERY",
+    "description": "Delivery delays, tracking and shipment issues",
+    "is_active": true
+  },
+  {
+    "category_id": 2,
+    "category_name": "REFUND",
+    "description": "Refund and reimbursement requests",
+    "is_active": true
+  },
+  {
+    "category_id": 3,
+    "category_name": "PAYMENT",
+    "description": "Payment failures, billing and incorrect charges",
+    "is_active": true
+  },
+  {
+    "category_id": 4,
+    "category_name": "DAMAGED PRODUCT",
+    "description": "Damaged, defective or malfunctioning products",
+    "is_active": true
+  },
+  {
+    "category_id": 5,
+    "category_name": "PRODUCT SAFETY",
+    "description": "Safety hazards, injuries and dangerous products",
+    "is_active": true
+  },
+  {
+    "category_id": 6,
+    "category_name": "MISSING ITEM",
+    "description": "Missing items or incomplete orders",
+    "is_active": true
+  },
+  {
+    "category_id": 7,
+    "category_name": "CANCELLATION",
+    "description": "Order cancellation requests",
+    "is_active": true
+  },
+  {
+    "category_id": 8,
+    "category_name": "WARRANTY",
+    "description": "Warranty, repair and replacement requests",
+    "is_active": true
+  },
+  {
+    "category_id": 9,
+    "category_name": "ACCOUNT",
+    "description": "Account access and login problems",
+    "is_active": true
+  },
+  {
+    "category_id": 10,
+    "category_name": "OTHER",
+    "description": "Complaints that do not fit another category",
+    "is_active": true
+  }
+]
