@@ -477,7 +477,3 @@ The synthetic data generator uses a fixed seed of `20261022`.
 The project includes generated data, validation utilities, and automated tests to support repeatable verification.
 
 AI assistance was used during development. Relevant prompts and assistance records are maintained in the project for assessment transparency.
-
----
-
-**Developed as an individual technical assessment project for YottaFlex AI Technologies Pvt Ltd.**
