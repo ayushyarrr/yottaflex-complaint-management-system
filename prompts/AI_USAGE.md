@@ -484,5 +484,3 @@ The purpose of AI assistance was to accelerate engineering work while retaining 
 The resulting application demonstrates a modular complaint-management workflow with relational persistence, deterministic decision-making, SLA enforcement, lifecycle traceability, synthetic data generation, operational analytics and validation.
 
 The most important engineering consideration was not simply generating code, but ensuring that the components worked together, that important decisions could be explained and that the resulting behavior could be verified locally.
-
-The candidate should be prepared to explain the implementation, assumptions, trade-offs, dependencies, limitations and verification results during the technical walkthrough.
